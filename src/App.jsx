@@ -27,7 +27,13 @@ const App = () => {
         Feliz dia dos namorados Meu Bem {'\u2764'}
       </h1>
       <p className="text-center max-w-xl text-gray-700 mb-8 px-2">
-        Hoje é o meu primeiro dia dos namorados que passo namorando, primeiro de muitos que ainda virão. Eu nem sei colocar em palavras o bem que você me faz, você chegou em um momento que o amor era uma das minhas últimas preocupações e você fez ele se tornar essencial. Mesmo com a distância você me passa uma segurança que nunca senti com ninguém, o seu jeito atencioso e cuidadoso de sempre perguntar sobre tudo me deixa bobo kkkkk. Cada dia que passa eu me apaixono mais por cada detalhe seu, sua determinação com as coisas me inspira a ser alguém melhor todos os dias, sempre que eu ouço você falando sobre o seu futuro eu penso "eu também preciso correr atrás, pois se eu quero passar uma vida com ele eu também preciso correr atrás das minhas responsabilidades". Só queria te dizer que eu te amo muito e queria muito poder estar com você nesse momento, mas como infelizmente isso não é possível comprei esse presente pra você e fiz essa página, afinal eu sou o menino do TI (Tesão Intenso {'\u1fae6'} ). Abaixo tem algumas fotos que separei de momentos especiais com você, eu amo todos os nossos momentos juntos e esses são apenas alguns que assim como os outros guardo com muito carinho na memória. Te amo meu bem {'\u2764'}
+        Hoje é o meu primeiro dia dos namorados que passo namorando, primeiro de muitos que ainda virão. Eu nem sei colocar em palavras o bem que você me faz, você chegou em um momento que o amor era uma das minhas últimas preocupações e você fez ele se tornar essencial. Mesmo com a distância você me passa uma segurança que nunca senti com ninguém, o seu jeito atencioso e cuidadoso de sempre perguntar sobre tudo me deixa bobo. Cada dia que passa eu me apaixono mais por cada detalhe seu, sua determinação com as coisas me inspira a ser alguém melhor todos os dias, sempre que eu ouço você falando sobre o seu futuro eu penso "eu também preciso correr atrás, pois se eu quero passar uma vida com ele eu também preciso correr atrás das minhas responsabilidades". Só queria te dizer que eu te amo muito e queria muito poder estar com você nesse momento, mas como infelizmente isso não é possível comprei esse presente pra você e fiz essa página, afinal eu sou o menino do TI (Tesão Intenso kkkk). Abaixo tem algumas fotos que separei de momentos especiais com você, eu amo todos os nossos momentos juntos e esses são apenas alguns que assim como os outros guardo com muito carinho na memória. Como diria a Luísa Sonza em Iguaria:
+      </p>
+      <p className="text-center max-w-xl text-gray-700 mb-8 px-2">
+        Tem gente que amanhece com você<br/>
+        Tem gente que é o seu amanhecer<br/>
+        Tem gente que acontece e nada a ver<br/>
+        Tem gente e tem Eu e Você {'\u2764'}
       </p>
 
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
